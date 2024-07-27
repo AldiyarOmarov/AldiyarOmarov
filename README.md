@@ -49,6 +49,9 @@ I'm always eager to learn and adapt to new technologies and methodologies in the
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="48"/><br>Apache Spark
     </td>
+    <td align="center" width="96">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwc4nA7OwTXWba_j7l1LyFFdOAQxS44y7d0Q&s" alt="Apache Airflow" width="48"/><br>Apache Airflow
+    </td>
   
   </tr>
 </table>
@@ -82,6 +85,10 @@ I'm always eager to learn and adapt to new technologies and methodologies in the
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grafana/grafana-original.svg" alt="Grafana" width="48"/><br>Grafana
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kibana/kibana-original.svg" alt="Kibana" width="48"/><br>Kibana
+    <td align="center" width="96">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1eSih9TkntCFBZ1H5I6abw5VwwQdnXUhdw&s" alt="Apache Nifi" width="48"/><br>Apache Nifi
   
        
     
