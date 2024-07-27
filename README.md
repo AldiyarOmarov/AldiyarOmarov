@@ -37,6 +37,8 @@ I'm always eager to learn and adapt to new technologies and methodologies in the
     <td align="center" width="96">
     <img src="https://avatars.githubusercontent.com/u/58200861?s=48&v=4" alt="PySpark" width="48"/><br>PySpark
     </td>
+  <table>
+  <tr>
     <td align="center" width="96">
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="PySpark" width="48"/><br>SqlAlchemy
     </td>
@@ -74,6 +76,8 @@ I'm always eager to learn and adapt to new technologies and methodologies in the
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="48"/><br>SQLite
     </td>
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="48"/><br>Matplotlib
     </td>
