@@ -33,7 +33,6 @@ I'm always eager to learn and adapt to new technologies and methodologies in the
 - Swagger
 - Postman
 - VirtualBox (VBox)
-- HardHat
 
 ### Operating Systems
 - Linux
