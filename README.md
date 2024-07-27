@@ -1,6 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AldiyarOmarov)](https://github.com/ryo-ma/github-profile-trophy)
 
-About me:
+About me:  
+
 I am a data enthusiast with a strong focus on Data Science and a specialization in Data Engineering. My work revolves around building robust and scalable data pipelines, optimizing data workflows, and ensuring efficient data storage and retrieval. I have extensive experience with various data tools and technologies, including SQL, Python, and cloud platforms. My skill set includes developing ETL processes, data warehousing, and working with big data frameworks like Apache Spark.
 
 I enjoy solving complex data challenges and have a passion for transforming raw data into actionable insights. My background in statistics and machine learning allows me to understand the intricacies of data modeling and analysis, making me well-equipped to support data-driven decision-making processes. Whether it's designing data architectures or optimizing performance, I am committed to delivering high-quality solutions that meet business needs.
@@ -10,33 +11,116 @@ I'm always eager to learn and adapt to new technologies and methodologies in the
 ## Languages and Tools
 
 ### Languages
-- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20"/> Python
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="48"/><br>Python
+    </td>
+</table>
 
-### My Frameworks and Main Libraries for Python
-- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLAlchemy" width="20"/> SQLAlchemy
-- <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark" width="20"/> PySpark
-- <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="20"/> NumPy
-- <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="20"/> Pandas
-- <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" width="20"/> Scikit-learn (sklearn)
+### Frameworks and Main Libraries for Python
+<table>
+  <tr>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="48"/><br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="48"/><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="48"/><br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="48"/><br>OpenCV
+    </td>
+    <td align="center" width="96">
+    <img src="https://avatars.githubusercontent.com/u/58200861?s=48&v=4" alt="PySpark" width="48"/><br>PySpark
+    </td>
+    <td align="center" width="96">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="PySpark" width="48"/><br>SqlAlchemy
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="48"/><br>Hadoop
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="48"/><br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="48"/><br>Apache Spark
+    </td>
+  
+  </tr>
+</table>
 
 ### Tools for Data Manipulation & Visualization
-- <img src="https://img.icons8.com/color/48/000000/conda.png" alt="Conda" width="20"/> Conda
-- <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="20"/> Jupyter
-- <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Apache Spark" width="20"/> Apache Spark
-- <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="20"/> MySQL
-- <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="20"/> PostgreSQL (Postgres)
-- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="20"/> SQLite
-- <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="20"/> Matplotlib (mpl)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Conda" width="48"/><br>Conda
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48"/><br>Jupyter
+    </td> 
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48"/><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="48"/><br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="48"/><br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48"/><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="48"/><br>DBeaver
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grafana/grafana-original.svg" alt="Grafana" width="48"/><br>Grafana
+  
+       
+    
+  </tr>
+</table>
 
 ### Environments, Testing, Other
-- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20"/> Git
-- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="20"/> Docker
-- <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="20"/> Postman
-- <img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox" width="20"/> VirtualBox (VBox)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48"/><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="48"/><br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox" width="48"/><br>VirtualBox
+    </td>
+  </tr>
+</table>
 
 ### Operating Systems
-- <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20"/> Linux
-- <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" width="20"/> Ubuntu
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48"/><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" width="48"/><br>Ubuntu
+    </td>
+    <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg" alt="Ubuntu" width="48"/><br>Windows
+    </td>
+
+  </tr>
+</table>
 
 
 <!---
