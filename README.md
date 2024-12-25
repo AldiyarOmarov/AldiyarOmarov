@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AldiyarOmarov)](https://github.com/ryo-ma/github-profile-trophy) \
-![](https://komarev.com/ghpvc/?username=AldiyarOmarov&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=AldiyarOmarov&label=PROFILE+VIEWS) \
 About me:  
 
 I am a data enthusiast with a strong focus on Data Science and a specialization in Data Engineering. My work revolves around building robust and scalable data pipelines, optimizing data workflows, and ensuring efficient data storage and retrieval. I have extensive experience with various data tools and technologies, including SQL, Python, and cloud platforms. My skill set includes developing ETL processes, data warehousing, and working with big data frameworks like Apache Spark.
