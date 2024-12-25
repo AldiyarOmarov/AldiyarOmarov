@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AldiyarOmarov)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AldiyarOmarov)](https://github.com/ryo-ma/github-profile-trophy) \
 ![](https://komarev.com/ghpvc/?username=AldiyarOmarov&label=PROFILE+VIEWS)
 About me:  
 
